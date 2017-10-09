@@ -11,5 +11,6 @@ gulp.task('views', function buildHTML() {
 
 gulp.task('default', function() {
   // place code for your default task here
+  gulp.watch("views/*.pug", ['views']);
 });
 
