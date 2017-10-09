@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+public/bundle.js
+public/london.html
+public/paris.html
+public/tokio.html
+public/mystyle.css
